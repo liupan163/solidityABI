@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64926281-823a-4e1f-8dcb-a70ac8c7faba" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/sbt.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/catalog" afterDir="false" />
-    </list>
+    <list default="true" id="64926281-823a-4e1f-8dcb-a70ac8c7faba" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,10 +60,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="368" />
-    <option name="y" value="14" />
+    <option name="x" value="305" />
+    <option name="y" value="23" />
     <option name="width" value="1445" />
-    <option name="height" value="1013" />
+    <option name="height" value="954" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -171,16 +166,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543994603007</updated>
-      <workItem from="1543994604460" duration="151000" />
+      <workItem from="1543994604460" duration="348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="151000" />
+    <option name="totallyTimeSpent" value="348000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="368" y="14" width="1445" height="1013" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
